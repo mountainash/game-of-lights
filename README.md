@@ -1,7 +1,6 @@
 # Moores Cloud Holiday
-## Moores Fireplace
 
-A heavy modification of [Game-of-Lights](https://github.com/katiejots/game-of-lights) to show a "fire" behind my heater.
+A modification of [Game-of-Lights](https://github.com/katiejots/game-of-lights)
 
 ```sh
 npm install
